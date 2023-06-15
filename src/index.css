@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background-color: #ffe5a9;
+  /* user-select: none; */
+  -webkit-user-drag: none;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.listItems {}
+
+.listItem1 {
+  border: 2px solid red;
+}
